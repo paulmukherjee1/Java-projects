@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cat
+comment0.text=\r\n\ Cat\ class\ for\ use\ in\ Homework\ 2\r\n\ \r\n\ @author\ cjohns25\r\n\r\n
+comment1.params=name\ yearOfBirth\ isDog\ isLongHair\ weight
+comment1.target=Cat(java.lang.String,\ int,\ boolean,\ boolean,\ double)
+comment1.text=\r\n\ @param\ name\r\n\ @param\ yearOfBirth\r\n\ @param\ isDog\r\n\ @param\ isLongHair\r\n\ @param\ weight\r\n
+comment2.params=
+comment2.target=boolean\ isLongHair()
+comment2.text=\r\n\ @return\ the\ isLongHair\r\n
+comment3.params=isLongHair
+comment3.target=void\ setLongHair(boolean)
+comment3.text=\r\n\ @param\ isLongHair\ the\ isLongHair\ to\ set\r\n
+comment4.params=
+comment4.target=double\ getWeight()
+comment4.text=\r\n\ @return\ the\ weight\r\n
+comment5.params=weight
+comment5.target=void\ setWeight(double)
+comment5.text=\r\n\ @param\ weight\ the\ weight\ to\ set\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

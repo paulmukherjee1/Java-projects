@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GeneratePetFile
+comment0.text=\r\n\ Use\ this\ class\ to\ generate\ pet.dat\ file\ for\ Homework\ 2\r\n\ \r\n\ @author\ cjohns25\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ @param\ args\r\n
+numComments=2
